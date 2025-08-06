@@ -23,7 +23,7 @@
 |---------------------------|----------------|----------------------|
 | Face Detection App        | 🛠 In Progress  | OpenCV + Python      |
 | Python Mini Projects      | ✅ Ongoing      | Logic & Structure    |
-| AI Basics (free courses)  | 📚 Learning     | Coursera, edX, Kaggle |
+| AI Basics                 | 📚 Learning     | Coursera, edX, Kaggle |
 | Git & GitHub              | ✅ Practicing   | Version Control      |
 | Front-end Basics (HTML/CSS) | ✅ Basic Level | Web UI Structure     |
 
